@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rafiullah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20200701/original/pngtree-children-s-software-programming-png-image_5401259.jpg")
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiullah08&label=Profile%20views&color=0e75b6&style=flat" alt="rafiullah08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiullah08" alt="rafiullah08" /></a> </p>
