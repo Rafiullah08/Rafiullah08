@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **horizon agency**
 
 
-- 👨‍💻 All of my projects are available at [[https://my-portfolio-95002.web.app](https://my-portfolio-95002.web.app](https://rgc-git-main-rafiullahs-projects.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://rgc-git-main-rafiullahs-projects.vercel.app/]
 
 - 💬 Ask me about **JavaScript , React, NodeJS**
 
